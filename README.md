@@ -17,13 +17,19 @@ The `train.csv` file includes house features such as `GrLivArea` (above-ground l
 
 ## Credit and Acknowledgement
 
-I accessed the dataset through the Kaggle competition page mentioned above.
+I accessed the dataset through Kaggle and used the following Kaggle notebook as a reference for this project.
 
-I would also like to acknowledge **Serkan Polat**, whose Kaggle notebook titled *House Prices - Advanced Regression Techniques* was shared as a reference while exploring this dataset. Kaggle's competition notebooks can be found here:
+**Notebook:** House Prices - Advanced Regression Techniques  
 
-https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/code
+**Author:** Serkan Polat
 
-The notebook is acknowledged as a reference. The dataset itself is provided through the Kaggle competition. Kaggle's dataset description notes that the original data description was prepared by **Dean De Cock** and lightly edited for the competition.
+**Notebook Link:**  
+
+https://www.kaggle.com/code/serkanp/house-prices-advanced-regression-techniques/notebook
+
+I would like to acknowledge Serkan Polat for sharing this notebook, which helped me explore the dataset and understand its structure.
+
+The original dataset was prepared by Dean De Cock for educational purposes.
 
 ## How I Use the Dataset
 
